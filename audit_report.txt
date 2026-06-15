@@ -1,0 +1,72 @@
+LINUX SECURITY AUDIT REPORT
+
+Date:
+15 June 2026
+
+Auditor:
+Janani
+
+------------------------------------------------
+
+1. User Information
+Current User: kali
+
+------------------------------------------------
+
+2. System Information
+Operating System: Kali Linux
+Kernel Version: Linux 6.x.x
+
+------------------------------------------------
+
+3. Network Information
+IP Address: 192.168.x.x
+
+------------------------------------------------
+
+4. Open Ports
+Observed listening ports using ss -tuln.
+
+------------------------------------------------
+
+5. Running Processes
+Verified active system processes using ps aux.
+
+------------------------------------------------
+
+6. Memory Usage
+Checked using free -h.
+
+------------------------------------------------
+
+7. Disk Usage
+Checked using df -h.
+
+------------------------------------------------
+
+8. CPU Information
+Collected using lscpu.
+
+------------------------------------------------
+
+9. Running Services
+Verified active services using systemctl.
+
+------------------------------------------------
+
+10. Firewall Status
+Checked firewall status.
+
+------------------------------------------------
+
+Conclusion
+
+Basic Linux security audit completed successfully.
+System information, ports, processes,
+memory, disk usage and services
+were reviewed and documented.
+
+No critical issues identified during
+the audit process.
+
+END OF REPORT
