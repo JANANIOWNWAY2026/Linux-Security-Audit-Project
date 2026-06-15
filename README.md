@@ -22,9 +22,6 @@ Perform a basic Linux security audit using Kali Linux.
 - lscpu
 - systemctl
 
-## Screenshots
-
-Screenshots are available in the screenshots folder.
 
 ## Outcome
 
